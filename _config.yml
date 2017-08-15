@@ -1,2 +1,3 @@
 name: Cottonwood Cobras
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
